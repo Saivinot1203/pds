@@ -1,0 +1,19 @@
+Box Plot (Percentage by Gender): Compares the distribution of percentages between genders and highlights outliers.
+
+Bar Plot (Lunch Distribution): Shows the frequency of different lunch types.
+
+Scatter Plot (Reading vs Writing Scores): Reveals the correlation between reading and writing scores.
+
+Histogram with KDE (Writing Scores): Displays the distribution and density of writing scores.
+
+Violin Plot (Writing Scores by Gender): Compares the distribution and density of writing scores between genders.
+
+Histogram with KDE (Percentage): Shows the distribution and density of percentage scores.
+
+Pair Plot: Visualizes relationships between percentage, reading score, and writing score.
+
+
+
+
+
+
